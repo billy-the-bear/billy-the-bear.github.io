@@ -10,7 +10,25 @@ body {
 
 .projects {
     border: 5px solid black;
-    padding: 10px;x;
-    margin: 10px;px;
-    border-radius:8px;
+    border-radius:30px;
+    padding: 15px;
+    margin: 15px;
+    box-shadow: 2px 5px 5px grey;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.icon img {
+    border-radius: 8px;
+    width:32px;
+    height:auto;
+}
+
+a {
+    color:darkcyan;
+}
+
+a:hover {
+    color:darkblue;
+    cursor:hover;
 }
