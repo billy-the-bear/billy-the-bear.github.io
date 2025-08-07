@@ -7,6 +7,8 @@ body {
     background-color:cyan;
 }
 
-#race-bias-simulator {
-    background-color:lightgoldenrodyellow;
+.projects {
+    border:2px bold black;
+    padding:20x;
+    border-radius:8px;
 }
