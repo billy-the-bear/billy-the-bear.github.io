@@ -8,7 +8,8 @@ body {
 }
 
 .projects {
-    border:2px bold black;
-    padding:20x;
+    border: 5px solid black;
+    padding: 10px;x;
+    margin: 10px;px;
     border-radius:8px;
 }
